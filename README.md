@@ -9,4 +9,6 @@ A Collection of Data Science Projects
  5.  NLP
  6.  Time Series models
  7.  Statistical Analysis
- 8.  
+ 8.  Market Analysis
+ 9.  Graph Network
+ 10.  Mini Projects
