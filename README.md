@@ -1,6 +1,6 @@
 # Data-Science-Projects
 A Collection of Data Science Projects
- 1.  Supervised Learning
+ 1.  Supervised Learning \
      1.[Cost Prediction Model](https://github.com/krishthw/Data-Science-Projects/wiki/Cost-Prediction-Model)
 
  3.  Unsupervised Learning
