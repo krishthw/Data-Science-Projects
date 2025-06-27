@@ -9,6 +9,6 @@ A Collection of Data Science Projects
    6. Recommender Systems
    7. Graph Network
    8. Natural Language Processing (NLP) \
-      i.[Bank Customer Reviews](https://github.com/krishthw/Data-Science-Projects/wiki/Customer Reviews for Chase Bank and its Competitors)
+      i.[Bank Customer Reviews](https://github.com/krishthw/Data-Science-Projects/wiki/Customer-Reviews-for-Chase-Bank-and-its-Competitors)
 
    10. Mini Projects
