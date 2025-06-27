@@ -6,7 +6,9 @@ A Collection of Data Science Projects
    3. Time Series models
    4. Statistical Analysis
    5. Market Analysis
-   6. Recomender Systems
+   6. Recommender Systems
    7. Graph Network
-   8. NLP
-   9. Mini Projects
+   8. Natural Language Processing (NLP)
+      i.[Bank Customer Reviews](https://github.com/krishthw/Data-Science-Projects/wiki/Bank-Customer-Reviews)
+
+   10. Mini Projects
